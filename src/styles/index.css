@@ -1,4 +1,66 @@
-
+.box{
+    margin-top: 100px;
+    margin-left: 800px;
+    width: 100px;
+    height: 300px;
+    background-color: black;
+}
+.red-circle{
+    background-color: red;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+.red-selected{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    box-shadow: 0 0 50px lightcoral;
+    border-radius: 100%;
+}
+.orange-circle{
+    background-color: orange;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+.orange-selected{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    box-shadow: 0 0 10px 10px lightsalmon;
+    border-radius: 100%;
+}
+.green-circle{
+    background-color: green;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+.green-selected{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    box-shadow: 0 0 10px 10px lightgreen;
+    border-radius: 100%;
+}
+.purple-circle{
+    background-color: purple;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+.purple-selected{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    box-shadow: 0 0 10px 10px whitesmoke;
+    border-radius: 100%;
+}
 /* 
 
     You can write your own styles here...
